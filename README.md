@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Talal-ai/open-swe">
+  <a href="https://github.com/Talal-ai/Talal SWE">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
@@ -13,8 +13,8 @@
 </div>
 
 <div align="center">
-  <a href="https://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/github/license/Talal-ai/open-swe" alt="License"></a>
-  <a href="https://github.com/Talal-ai/open-swe" target="_blank"><img src="https://img.shields.io/github/stars/Talal-ai/open-swe" alt="GitHub Stars"></a>
+  <a href="https://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/github/license/Talal-ai/Talal SWE" alt="License"></a>
+  <a href="https://github.com/Talal-ai/Talal SWE" target="_blank"><img src="https://img.shields.io/github/stars/Talal-ai/Talal SWE" alt="GitHub Stars"></a>
   <a href="https://github.com/Talal-ai/deepagents" target="_blank"><img src="https://img.shields.io/badge/Built%20on-Deep%20Agents-blue" alt="Built on Deep Agents"></a>
   <a href="https://github.com/Talal-ai/langgraph" target="_blank"><img src="https://img.shields.io/badge/Powered%20by-LangGraph-blue" alt="Powered by LangGraph"></a>
   <a href="https://x.com/Talal" target="_blank"><img src="https://img.shields.io/twitter/url/https/twitter.com/Talal.svg?style=social&label=Follow%20%40Talal" alt="Twitter / X"></a>
@@ -137,8 +137,8 @@ Talal SWE includes a LangGraph backend, a web dashboard, and an experimental des
 Complete the required `.env`, GitHub App, and sandbox setup in the [Installation Guide](docs/INSTALLATION.md), then install the backend and dashboard dependencies:
 
 ```bash
-git clone https://github.com/Talal-ai/open-swe.git
-cd open-swe
+git clone https://github.com/Talal-ai/Talal SWE.git
+cd Talal SWE
 uv venv
 source .venv/bin/activate
 uv sync --all-extras
@@ -156,7 +156,7 @@ Production self-hosting uses the standalone LangGraph Agent Server and requires 
 
 ## Project status
 
-Talal SWE is built in the open by Talal and is evolving quickly. The original internal coding-agent framework announcement is available on the [Talal blog](https://blog.Talal.com/open-swe-an-open-source-framework-for-internal-coding-agents/); the project has since expanded considerably.
+Talal SWE is built in the open by Talal and is evolving quickly. The original internal coding-agent framework announcement is available on the [Talal blog](https://blog.Talal.com/Talal SWE-an-open-source-framework-for-internal-coding-agents/); the project has since expanded considerably.
 
 ## License
 
